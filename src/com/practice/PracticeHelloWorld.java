@@ -8,6 +8,8 @@ public class PracticeHelloWorld {
 		
 		System.out.println("Added line from feature branch");
 
+		System.out.println("Line from master branch");
+
 	}
 
 }
